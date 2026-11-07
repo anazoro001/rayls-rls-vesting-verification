@@ -1,6 +1,6 @@
 # Inside Rayls' 1.07 Billion RLS Lock: An On-Chain Investigation of Parfin's Vesting Contract
 
-**Research status:** explorer-based first-pass verification  
+
 **Research snapshot:** 6 November 2026  
 **Network:** Rayls Public Chain  
 **Lock contract:** `0x1463889D3a5EAAEE3f066d1CF438A8957F7Db98E`
