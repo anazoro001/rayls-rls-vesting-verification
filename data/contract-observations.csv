@@ -1,0 +1,16 @@
+method,value,evidence_basis
+actualBalance,1070493535000000000000000000,explorer read
+expectedBalance,1070493535000000000000000000,explorer read
+totalAmount,1070493535000000000000000000,explorer read
+decimals,18,RLS token explorer read
+symbol,RLS,RLS token explorer read
+trancheCount,48,explorer read
+firstUnlockTime,1827619200,explorer read
+finalUnlockTime,1951257600,last item in unlockTimes array
+claimable,0,explorer read
+isFullyFunded,true,explorer read
+totalBurned,0,explorer read
+totalClaimed,0,explorer read
+tranchesClaimed,0,explorer read
+ownerCount,3,explorer read; candidate addresses checked
+adminCount,5,explorer read; candidate addresses checked
